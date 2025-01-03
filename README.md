@@ -3,7 +3,7 @@
 **CPPAnalyzer** is a powerful tool for analyzing C and C++ source code, built on the foundation of **Cppcheck**. It provides a user-friendly **Graphical User Interface (GUI)** to make the analysis process seamless and efficient.  
 
 ## Features  
-- **GUI-based Workflow**: Simplifies input of source and destination paths.  
+- **GUI-based Workflow**: Simplifies input of source and destination paths. it can be utilize by running **CPPAnalyzer.py**.
 - **Dual Output Formats**:  
   - **XML file**: For machine-readable results.  
   - **Spreadsheet file**: For human-friendly interpretation.  
@@ -20,4 +20,5 @@
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/ErfanAmraei/CPPAnalyzer.git  
-   cd CPPAnalyzer  
+   cd CPPAnalyzer
+   python CPPAnalyzer.py
