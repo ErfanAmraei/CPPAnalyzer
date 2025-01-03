@@ -2,7 +2,7 @@
 
 **CPPAnalyzer** is a powerful tool for analyzing C and C++ source code, built on the foundation of **Cppcheck**. It provides a user-friendly **Graphical User Interface (GUI)** to make the analysis process seamless and efficient.  
 
-##Important Notice:
+## Important Notice:
 This project is intended for **demonstration purposes only**. The code is provided to showcase specific functionalities and is not meant for modification, redistribution, or commercial use. Please respect the terms of use and refrain from altering or redistributing the code.
 
 ## Features  
